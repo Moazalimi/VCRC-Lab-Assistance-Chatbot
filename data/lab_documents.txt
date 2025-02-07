@@ -1,0 +1,89 @@
+### Project Details
+Project Name: Public Transportation Tracker
+Description: A mobile application designed to enhance urban mobility using Generative AI for real-time public transit information, route optimization, predictive capabilities, and sustainability metrics.
+Project Status: In Progress
+Start Date: 2024-10-01
+Expected Completion Date: 2024-12-31
+Actual Completion Date: N/A
+Team Members: Alice Smith, Bob Johnson, Carlos Vega, Dana Lee
+Team Lead: Alice Smith
+Supervisor: Dr. Emily Carter
+Resources Used: LangChain, OpenAI GPT-4, React Native, Firebase
+Challenges Faced: Real-time data synchronization, scalability of predictive models, ensuring app usability.
+Key Outcomes: Improved commuter experience, reduced transit delays, optimized transit routes.
+
+Project Name: Smart City Vehicle Tracker
+Description: A vehicle tracking system that uses GPS and AI to monitor and analyze urban vehicle movements for efficiency and sustainability.
+Project Status: Completed
+Start Date: 2024-06-01
+Expected Completion Date: 2024-09-30
+Actual Completion Date: 2024-09-21
+Team Members: Ethan Brooks, Fiona Ng, George Patel, Hannah Cho
+Team Lead: Ethan Brooks
+Supervisor: Dr. Noah Wright
+Resources Used: Python, Django, PostgreSQL, Google Maps API
+Challenges Faced: Integration of GPS data with backend, handling large-scale vehicle data, visualizing trip paths.
+Key Outcomes: Enhanced traffic management, real-time vehicle monitoring, sustainability metrics for urban planning.
+
+---
+
+### Student Data
+Student ID: S12345
+Name: Alice Smith
+Email: alice.smith@example.com
+Phone Number: +1-555-0123
+Projects Assigned: Public Transportation Tracker
+Role: Team Lead
+Skills: Project Management, React Native, AI Development
+Batch/Year: 2024
+
+Student ID: S67890
+Name: Ethan Brooks
+Email: ethan.brooks@example.com
+Phone Number: +1-555-0456
+Projects Assigned: Smart City Vehicle Tracker
+Role: Team Lead
+Skills: Python, GPS Data Analysis, Web Development
+Batch/Year: 2023
+
+Student ID: S54321
+Name: Dana Lee
+Email: dana.lee@example.com
+Phone Number: +1-555-0789
+Projects Assigned: Public Transportation Tracker
+Role: Developer
+Skills: Firebase, Mobile App Development
+Batch/Year: 2024
+
+---
+
+### Equipment Detail
+Name: MacBook Pro 16-inch
+Category: Laptop
+Description: High-performance laptop for development and data analysis.
+Purchase Date: 2024-01-15
+Status: In Use
+Assigned To: Alice Smith
+Location: Lab A
+Maintenance History: Battery replacement on 2024-06-10.
+Specifications: M1 Pro chip, 16GB RAM, 512GB SSD
+
+Name: Garmin GPS Device
+Category: GPS Tracker
+Description: GPS device used for tracking vehicle locations in real-time.
+Purchase Date: 2023-12-10
+Status: Available
+Assigned To: N/A
+Location: Storage Room
+Maintenance History: Firmware update on 2024-04-22.
+Specifications: 4-inch display, real-time tracking, waterproof
+
+Name: Dell PowerEdge Server
+Category: Server
+Description: Dedicated server for project data storage and computations.
+Purchase Date: 2023-11-05
+Status: In Use
+Assigned To: Ethan Brooks
+Location: Data Center
+Maintenance History: Hard drive replacement on 2024-02-15.
+Specifications: Dual Xeon CPUs, 64GB RAM, 4TB HDD
